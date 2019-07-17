@@ -1,0 +1,6 @@
+02:33:17.030 [main] DEBUG Selenium_Framework.E2E_LakesEdge.ValidateTitle - Broweser Lanuced
+02:33:25.611 [main] DEBUG Selenium_Framework.E2E_LakesEdge.ValidateTitle - URL Lanuced
+02:33:25.743 [main] DEBUG Selenium_Framework.E2E_LakesEdge.ValidateTitle - FEATURED COURSES
+02:33:30.305 [main] DEBUG Selenium_Framework.E2E_LakesEdge.HomePage - Browser Lanuced
+02:33:38.362 [main] DEBUG Selenium_Framework.E2E_LakesEdge.HomePage - URL Lanuced
+02:33:43.382 [main] DEBUG Selenium_Framework.E2E_LakesEdge.HomePage - clicked sign in button

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" parallel="none">
+  <listeners>
+    <listener class-name="Selenium_Framework.E2E_LakesEdge.Listerner"/>
+  </listeners>
+  <test name="HomePage(failed)" parallel="none">
+    <classes>
+      <class name="Selenium_Framework.E2E_LakesEdge.ValidateTitle$HomePage">
+        <methods>
+          <include name="closeBrow"/>
+          <include name="initlazation"/>
+        </methods>
+      </class> <!-- Selenium_Framework.E2E_LakesEdge.ValidateTitle$HomePage -->
+      <class name="Selenium_Framework.E2E_LakesEdge.HomePage">
+        <methods>
+          <include name="closeBrow"/>
+          <include name="browserLanuch" invocation-numbers="0"/>
+          <include name="initlazation"/>
+        </methods>
+      </class> <!-- Selenium_Framework.E2E_LakesEdge.HomePage -->
+    </classes>
+  </test> <!-- HomePage(failed) -->
+</suite> <!-- Failed suite [Suite] -->

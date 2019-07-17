@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="27" started-at="2019-07-13T16:56:05Z" finished-at="2019-07-13T16:56:05Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="27" started-at="2019-07-13T16:56:05Z" finished-at="2019-07-13T16:56:05Z">
+      <class name="Selenium_Framework.E2E_LakesEdge.Gmail_LoginTest">
+        <test-method status="PASS" signature="Login()[pri:0, instance:Selenium_Framework.E2E_LakesEdge.Gmail_LoginTest@1bcffb5]" name="Login" duration-ms="6" started-at="2019-07-13T22:26:05Z" finished-at="2019-07-13T22:26:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="init()[pri:0, instance:Selenium_Framework.E2E_LakesEdge.Gmail_LoginTest@1bcffb5]" name="init" duration-ms="0" started-at="2019-07-13T22:26:05Z" finished-at="2019-07-13T22:26:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+      </class> <!-- Selenium_Framework.E2E_LakesEdge.Gmail_LoginTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
